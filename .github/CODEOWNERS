@@ -1,0 +1,4 @@
+# Default owners for everything in the repo.
+# With "Require review from Code Owners" enabled on the default branch,
+# a pull request needs approval from a member of this team.
+* @DoF-6413/mentors
